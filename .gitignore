@@ -1,0 +1,14 @@
+
+obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+
+obj/Debug/netcoreapp3.1/Revers Polish Notation.AssemblyInfo.cs
+
+obj/Debug/netcoreapp3.1/Revers Polish Notation.AssemblyInfoInputs.cache
+
+*.cache
+
+*.json
+
+*.props
+
+*.targets
